@@ -1,0 +1,18 @@
+{
+    "Tile_0"    : {"Top": 0, "Right": 0, "Bottom": 0, "Left": 0},
+    "Tile_1"    : {"Top": 1, "Right": 0, "Bottom": 0, "Left": 0},
+    "Tile_2"    : {"Top": 0, "Right": 1, "Bottom": 0, "Left": 0},
+    "Tile_3"    : {"Top": 1, "Right": 1, "Bottom": 0, "Left": 0},
+    "Tile_4"    : {"Top": 0, "Right": 0, "Bottom": 1, "Left": 0},
+    "Tile_5"    : {"Top": 1, "Right": 0, "Bottom": 1, "Left": 0},
+    "Tile_6"    : {"Top": 0, "Right": 1, "Bottom": 1, "Left": 0},
+    "Tile_7"    : {"Top": 1, "Right": 1, "Bottom": 1, "Left": 0},
+    "Tile_8"    : {"Top": 0, "Right": 0, "Bottom": 0, "Left": 1},
+    "Tile_9"    : {"Top": 1, "Right": 0, "Bottom": 0, "Left": 1},
+    "Tile_10"   : {"Top": 0, "Right": 1, "Bottom": 0, "Left": 1},
+    "Tile_11"   : {"Top": 1, "Right": 1, "Bottom": 0, "Left": 1},
+    "Tile_12"   : {"Top": 0, "Right": 0, "Bottom": 1, "Left": 1},
+    "Tile_13"   : {"Top": 1, "Right": 0, "Bottom": 1, "Left": 1},
+    "Tile_14"   : {"Top": 0, "Right": 1, "Bottom": 1, "Left": 1},
+    "Tile_15"   : {"Top": 1, "Right": 1, "Bottom": 1, "Left": 1}
+}

@@ -1,0 +1,31 @@
+{
+  "name": "wave-function-collapse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "build:watch": "npm run build:dev -- --watch",
+    "build:dev": "webpack --mode development --progress --color",
+    "build": "webpack -mode production --progress"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-transform-react-constant-elements": "^7.2.0",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "nodemon": "^2.0.16",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
