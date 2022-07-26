@@ -24,4 +24,4 @@ npm run build:dev
 
 ## Credits
 
-This algorithm was inspired by the idea of superposition and entropy from Quantium Mechanics (way above my head) but was explained to me by a youtube channel called The Coding Train's most recent video about Wave Funtion Collapse. Thank you very much for that person to have helped me understand the idea behind it and it's implementation.
+This algorithm was inspired by the idea of superposition and entropy from Quantium Mechanics (way above my head) but was explained to me by a youtube channel called [The Coding Train](https://www.youtube.com/watch?v=rI_y2GAlQFM) most recent video about Wave Funtion Collapse. Thank you very much for that person to have helped me understand the idea behind it and it's implementation.
