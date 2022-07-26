@@ -22,6 +22,6 @@ npm run build:watch
 npm run build:dev
 ```
 
-##Credits
+## Credits
 
 This algorithm was inspired by the idea of superposition and entropy from Quantium Mechanics (way above my head) but was explained to me by a youtube channel called The Coding Train's most recent video about Wave Funtion Collapse. Thank you very much for that person to have helped me understand the idea behind it and it's implementation.
